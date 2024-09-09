@@ -10,6 +10,8 @@ class StackApp extends StatelessWidget{
       home: new Scaffold(
         body: StackPilha()
       ),
+      //DEBUG
+      debugShowCheckedModeBanner: false,
     );
   }
 }
